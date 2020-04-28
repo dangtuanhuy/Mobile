@@ -1,0 +1,9 @@
+{
+    "blogposts": [
+		{
+			"id": 1,
+			"title": "API",
+			"content": "Content for my test"
+		}
+	]
+}
